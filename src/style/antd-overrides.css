@@ -1,0 +1,9 @@
+.ant-dropdown-menu-item:hover, .ant-dropdown-menu-submenu-title:hover {
+    background-color: #f4f5f8 !important;
+}
+
+.ant-dropdown-menu-item {
+    padding: 9px 15px !important;
+    line-height: 30px;
+    font-size: 13px !important;
+}
