@@ -69,6 +69,7 @@ config.json
 .cache
 
 # next.js build output
+/build
 .next
 
 # nuxt.js build output
